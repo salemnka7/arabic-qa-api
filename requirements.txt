@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+langchain==0.0.350
+langchain-openai==0.0.2
+faiss-cpu
+PyPDF2
+python-docx
+arabic-reshaper
+python-bidi
+pathlib
+python-dotenv
